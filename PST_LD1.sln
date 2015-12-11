@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PST_LD1", "PST_LD1\PST_LD1.csproj", "{20209D10-CD9B-4DFA-AF8C-6911E54775C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{9E2DBB76-6824-4FFB-A84E-24C5FB4299E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3D52A6A5-A308-4FBD-9589-359F793FF9DE}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20209D10-CD9B-4DFA-AF8C-6911E54775C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20209D10-CD9B-4DFA-AF8C-6911E54775C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20209D10-CD9B-4DFA-AF8C-6911E54775C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20209D10-CD9B-4DFA-AF8C-6911E54775C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E2DBB76-6824-4FFB-A84E-24C5FB4299E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2DBB76-6824-4FFB-A84E-24C5FB4299E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E2DBB76-6824-4FFB-A84E-24C5FB4299E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2DBB76-6824-4FFB-A84E-24C5FB4299E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
